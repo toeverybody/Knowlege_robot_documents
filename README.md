@@ -4,7 +4,7 @@
 
 ### Web 访问
 
-点击访问 [知识机器人 demo ](http://chatvue.vip.cpolar.cn)
+点击访问 [知识机器人 demo ](http://chatvue.cpolar.cn)
 
 ### 一般步骤：
 - 新建知识库（如已经创建则省略）
